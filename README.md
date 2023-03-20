@@ -1,8 +1,6 @@
 # create-apachevh
 
 
-Restore `tmux` environment after system restart.
-
 Creating virtual host requires knowing which configurations to change and 
 update. Which are easy to forget!
 
@@ -20,7 +18,7 @@ Creating virtual host will feel like a breaze.
 
 - `create-apachevh host.link`
 
-You can specify multiple host as a list of arguments.
+You can specify multiple host as a list of arguments separated by space.
 
 ### About
 
@@ -32,7 +30,7 @@ Tested and working on Manjaro Linux.
 
 ### Installation
 
-Clone and add to your local bin folder of your working directory.
+You can add to your local bin folder.
 Add execution rights. Then you are goo to go.
 
 - `chmod u+x create-apachevh`
