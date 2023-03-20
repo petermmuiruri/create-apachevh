@@ -33,5 +33,5 @@ Tested and working on Manjaro Linux.
 You can add to your local bin folder.
 Add execution rights. Then you are goo to go.
 
-- `chmod u+x create-apachevh`
+- `sudo chmod u+x create-apachevh`
 
